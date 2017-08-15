@@ -32,8 +32,8 @@ const config = {
 				loader:"babel-loader"
 			}
 		]
-	}
-	//plugins: [htmlWebpackPluginConfig]
+	},
+	plugins: [htmlWebpackPluginConfig]
 };
 
 module.exports = config;
