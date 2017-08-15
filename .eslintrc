@@ -1,0 +1,6 @@
+{
+  parser: "babel-eslint",
+  "rules": {
+  }
+}
+//https://www.robinwieruch.de/react-eslint-webpack-babel/#eslintRules
